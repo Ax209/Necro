@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>/Users/ax209/Monogame/necro/necro/Content/fonts/cairopixel.spritefont</SourceFile>
+  <SourceTime>2026-10-09T16:26:36.362473+01:00</SourceTime>
+  <DestFile>/Users/ax209/Monogame/necro/necro/Content/bin/DesktopGL/fonts/cairopixel.xnb</DestFile>
+  <DestTime>2026-11-04T15:26:06.2875942+00:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2025-10-20T15:25:32+01:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2025-10-20T15:25:32+01:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

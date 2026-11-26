@@ -1,0 +1,50 @@
+Necromanic Panic
+
+Tech Spec
+    PC/Windows 
+    Resolution = 128*128 (upscale to 512*512)
+
+// Art Style    
+    Low res pixel style, akin to Pico8.
+
+// Game Story: 
+    A tower defense where you play as a necromancer having to defend your magical crystal from tourists from Ghost Tours.
+
+// Game Loop
+    Defend from enemies walking along the path towards your Necro Crystal.
+
+    Traverse the map and find graves to summon skellybobs. Choose the type to make them, and they will follow you around. 
+    You can then tell them to stay put, follow you, or you can absorb them and take their powers.
+
+    Earn Exp for completing levels (bonus for the first time), and then unlock new summons, upgrade your stats, and play 
+    again for a better score.
+
+// Upgradable stats
+    Reduced Summon Cost
+    Extend Summon Time
+    Increase Total Skellybobs summoned
+    Extend MP well
+    Extent HP well
+    
+
+// Skellybobs
+    Fighter
+    Archer
+    Stinger
+    Defender (takes longer to kill, but does less damage)
+    Pyrox (Casts fire spells which do damage over time)
+    Cryox (Casts freeze spells, which can slow the enemy's attack and move)
+
+
+// Loading Screen Hints
+    "Summoning more skellybobs than your limit will cause the oldest to return to the earth."
+
+
+    
+
+// Stuff used
+
+Fonts 
+    six by six
+    The FontStruction “Six by Six” (https://fontstruct.com/fontstructions/show/2901181) by “JacobKoenig” is licensed under a Creative Commons CC0 Public Domain Dedication license (http://creativecommons.org/publicdomain/zero/1.0/).
+    [ancestry]

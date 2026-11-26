@@ -1,0 +1,12 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"/Users/ax209/Monogame/necro/necro/Content/cursor.png","/Users/ax209/Monogame/necro/necro/Content/bin/DesktopGL/cursor.xnb","TextureProcessor","Texture2DContent",227,1365,0.139695
+"/Users/ax209/Monogame/necro/necro/Content/fonts/cairopixel.spritefont","/Users/ax209/Monogame/necro/necro/Content/bin/DesktopGL/fonts/cairopixel.xnb","FontDescriptionProcessor","SpriteFontContent",492,13337,0.052278
+"/Users/ax209/Monogame/necro/necro/Content/fonts/dbreak2.png","/Users/ax209/Monogame/necro/necro/Content/bin/DesktopGL/fonts/dbreak2.xnb","TextureProcessor","Texture2DContent",634,25685,0.001392
+"/Users/ax209/Monogame/necro/necro/Content/fonts/goldbox.spritefont","/Users/ax209/Monogame/necro/necro/Content/bin/DesktopGL/fonts/goldbox.xnb","FontDescriptionProcessor","SpriteFontContent",497,13337,0.006404
+"/Users/ax209/Monogame/necro/necro/Content/fonts/portobuena.spritefont","/Users/ax209/Monogame/necro/necro/Content/bin/DesktopGL/fonts/portobuena.xnb","FontDescriptionProcessor","SpriteFontContent",485,13337,0.002932
+"/Users/ax209/Monogame/necro/necro/Content/gamebar.png","/Users/ax209/Monogame/necro/necro/Content/bin/DesktopGL/gamebar.xnb","TextureProcessor","Texture2DContent",339,8277,0.000949
+"/Users/ax209/Monogame/necro/necro/Content/grass.png","/Users/ax209/Monogame/necro/necro/Content/bin/DesktopGL/grass.xnb","TextureProcessor","Texture2DContent",890,65621,0.004163
+"/Users/ax209/Monogame/necro/necro/Content/grasssprites.png","/Users/ax209/Monogame/necro/necro/Content/bin/DesktopGL/grasssprites.xnb","TextureProcessor","Texture2DContent",152,2901,0.000488
+"/Users/ax209/Monogame/necro/necro/Content/necro.png","/Users/ax209/Monogame/necro/necro/Content/bin/DesktopGL/necro.xnb","TextureProcessor","Texture2DContent",178,341,0.000436
+"/Users/ax209/Monogame/necro/necro/Content/skelly.png","/Users/ax209/Monogame/necro/necro/Content/bin/DesktopGL/skelly.xnb","TextureProcessor","Texture2DContent",154,341,0.000345
+"/Users/ax209/Monogame/necro/necro/Content/skymarker.png","/Users/ax209/Monogame/necro/necro/Content/bin/DesktopGL/skymarker.xnb","TextureProcessor","Texture2DContent",194,1749,0.000501

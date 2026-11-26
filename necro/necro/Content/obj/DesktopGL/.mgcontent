@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>/Users/ax209/Monogame/necro/necro/Content/cursor.png</File>
+    <File>/Users/ax209/Monogame/necro/necro/Content/fonts/cairopixel.spritefont</File>
+    <File>/Users/ax209/Monogame/necro/necro/Content/fonts/dbreak2.png</File>
+    <File>/Users/ax209/Monogame/necro/necro/Content/fonts/goldbox.spritefont</File>
+    <File>/Users/ax209/Monogame/necro/necro/Content/fonts/portobuena.spritefont</File>
+    <File>/Users/ax209/Monogame/necro/necro/Content/gamebar.png</File>
+    <File>/Users/ax209/Monogame/necro/necro/Content/grass.png</File>
+    <File>/Users/ax209/Monogame/necro/necro/Content/grasssprites.png</File>
+    <File>/Users/ax209/Monogame/necro/necro/Content/necro.png</File>
+    <File>/Users/ax209/Monogame/necro/necro/Content/skelly.png</File>
+    <File>/Users/ax209/Monogame/necro/necro/Content/skymarker.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
